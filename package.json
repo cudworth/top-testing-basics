@@ -1,0 +1,17 @@
+{
+  "name": "top-testing-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.5.3"
+  },
+  "dependencies": {
+    "gitignore": "^0.6.0"
+  }
+}
